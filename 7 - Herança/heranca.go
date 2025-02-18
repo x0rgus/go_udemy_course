@@ -22,4 +22,5 @@ func main() {
 	e1 := estudante{p1, "engenharia", "USP"} // Creating a 'estudante' struct instance with a 'pessoa' instance
 	fmt.Println(e1)
 	fmt.Println(e1.nome) // Accessing the 'nome' field from the 'pessoa' struct
+
 }
