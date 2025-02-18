@@ -36,4 +36,8 @@ func main() {
 
 	array2[1] = "posição alterada" // Changing the value of an array element
 	fmt.Println(slice2)            // The slice is a reference to the array, so the change in the array is reflected in the slice
+
+	// internal arrays
+	fmt.Println("Arrays internos")
+
 }
